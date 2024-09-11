@@ -1,8 +1,7 @@
 # Tkinter Dashboard with Plot Selector
-This project is a dynamic data dashboard built using Python's tkinter library and matplotlib. The dashboard includes various interactive visualizations, such as bar charts, pie charts, line charts, and more, with the ability to select and display individual plots through a drop-down menu.
+This project is a dynamic data dashboard built using Python's tkinter library and matplotlib. The dashboard includes various interactive visualizations, such as bar charts, pie charts, line charts.
 
 ## Features
-- Interactive Drop-down Menu: Select different plots to view them individually.
 - Charts: Sales, Inventory, Product Breakdown, Sales by Year, Inventory by Month.
 - Color Theme: Consistent and visually appealing color scheme.
 
