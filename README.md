@@ -24,7 +24,7 @@ This project is a dynamic data dashboard built using Python's tkinter library an
 
 4. Run the application:
 
-``python dashboard.py``
+``python3 dashboard.py``
 
 ## Available Plots:
 - **Sales by Product**: Displays the sales data as a bar chart.
